@@ -8,6 +8,7 @@
 - peas
 - mushrooms
 - onions
+- pork
 
 
 ## Instructions
