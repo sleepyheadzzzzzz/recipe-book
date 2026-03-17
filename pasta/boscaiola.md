@@ -8,8 +8,9 @@
 - peas
 - mushrooms
 - onions
+- pork
 
 
 ## Instructions
 
-TODO: these are missing
+TODO: these are missing 1 to 3
