@@ -13,4 +13,4 @@
 
 ## Instructions
 
-TODO: these are missing 1 to 3
+TODO: these are not and never missing
